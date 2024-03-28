@@ -1,10 +1,11 @@
-### Hi Hi! I am Noah Storms! Currently, I am pursing my bachelor's degree in Computer Science with an emphasis on Innovation. Adaptability, collaboration, communication, and self-motivation are just a few of my strengthens and skills that I continue to build on every chance I get. Below is just a bit more about me and what I have done and continuing to do!
+### Introduction
+  Hi Hi! I am Noah Storms! Currently, I am pursing my bachelor's degree in Computer Science with an emphasis on Innovation. Adaptability, collaboration, communication, and self-motivation are just a few of my strengthens and skills that I continue to build on every chance I get. Below is just a bit more about me and what I have done and continuing to do!
 
-Contact Information:
+### Contact Information:
 - Email: thestorms2002@gmail.com
 - Phone: (239)222-0528
 
-Education:
+### Education:
   - Graduated at Discovery Canyon Campus with a High School Diploma
       - GPA: 4.0 (weighted); 3.423 (unweighted)
       - Years: 2016 - 2020
@@ -32,7 +33,7 @@ Education:
           - Design and Analysis of Algorithms
           - Homeland Security & Cybersecurity
 
-Work Experience:
+### Work Experience:
   - Safeway Seafood Clerk, September 2023 – Present
     - Worked part time (20-35 hrs/week)
     - Served customers and answered questions on items stored in meat and seafood cases
@@ -52,13 +53,27 @@ Work Experience:
     - Helped customers realize needs while accompanying them through the purchase process
     - Guided customers through the return or exchange process 
 
-Hobbies:
-  - Soccer
-  - Watching Sports
+### Hobbies:
+  - Watching/Playing Sports:
+      - Played Soccer (27 Seasons)
+      - Favorite Teams:
+          - Football: Denver Broncos
+          - Soccer: FC Barcelona (La Liga), Colorado Rapids (MLS), and Colorado Springs Switchbacks (USL)
+          - Hockey: Colorado Avalanche
+          - Basketball: Denver Nuggets
   - Video Games
-  - Drawing
-  - Hiking
+      - Nintendo and Playstation
+      - Favorites:
+          - Okami
+          - Super Mario Bros 3
+          - Star Fox 64
+          - Mario Kart 8 Deluxe
+          - Paper Mario: The Thousand Year Door
   - Programming
+      - Python
+      - C++
+  - Hiking
+  - Drawing
   - Puzzles
   - Listening to music
 
