@@ -1,6 +1,5 @@
 ### Introduction
-  Hi Hi! I am Noah Storms! Currently, I am pursing my bachelor's degree in Computer Science with an emphasis on Innovation. Adaptability, collaboration, communication, and self-motivation are just a few of my strengthens and skills that I continue to build on every chance I get. Below is just a bit more about me and what I have done and continuing to do!
-
+  Hi Hi! I am Noah Storms! Currently, I am pursing my bachelor's degree in Computer Science with an emphasis on Innovation. Adaptability, collaboration, communication, and self-motivation are just a few of my strengthens and skills that I continue to build on every chance I get. Below is just a bit more about me! Thanks for reading!
 ### Contact Information:
 - Email: thestorms2002@gmail.com
 - Phone: (239)222-0528
