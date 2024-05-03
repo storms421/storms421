@@ -26,9 +26,9 @@
           - Computer Organization and Assembly Language Programming (Y86)
           - Social and Ethical Implications of Computing
           - Object-Oriented Programming Using C++
-          - Concepts of Programming Languages (In-Progress)
+          - Concepts of Programming Languages
           - Computer Architecture I (RISC-V)
-          - Operating Systems (In-Progress)
+          - Operating Systems
           - Design and Analysis of Algorithms
           - Homeland Security & Cybersecurity
 
