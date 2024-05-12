@@ -15,8 +15,8 @@
   - Currently studying at University of Colorado Colorado Springs (UCCS)
       - Pursuing bachelor's degree in Computer Science with an emphasis on Innovation
       - Years: 2020 - Now (Expected Graduation May 2025)
-      - Overall GPA: 3.73
-      - Major GPA: 3.614
+      - Overall GPA: 3.781
+      - Major GPA: 3.676
         - Classes Taken:
           - Intro to Programming (Python)
           - Principles of Computer Science (Java)
