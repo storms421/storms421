@@ -36,9 +36,10 @@
   - Safeway Meat/Seafood Clerk, September 2023 – Present
     - Worked part time (20-35 hrs/week)
     - Served customers and answered questions on items stored in meat and seafood cases
-    - Priced, packaged, and stocked seafood products for sales floor
+    - Priced, packaged, and stocked meat/seafood products for sales floor
     - Made, cut, and prepared seafood meals for customers
     - Ensure temperatures in all areas were accurate
+    - Nightly cleaning of all machines and cases
       
   - The Summit InterQuest Entertainment/Guest Service, August 2022 – June 2023
     - Worked full time (35-40 hrs/week) from August to January then transitioned to closing shifts in a part time capacity (20-25 hrs/week)
