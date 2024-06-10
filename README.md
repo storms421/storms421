@@ -33,7 +33,7 @@
           - Homeland Security & Cybersecurity
 
 ### Work Experience:
-  - Safeway Seafood Clerk, September 2023 – Present
+  - Safeway Meat/Seafood Clerk, September 2023 – Present
     - Worked part time (20-35 hrs/week)
     - Served customers and answered questions on items stored in meat and seafood cases
     - Priced, packaged, and stocked seafood products for sales floor
