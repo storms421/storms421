@@ -34,6 +34,7 @@
           - Intro to Software Engineering (In-progress)
           - Computer Networks (In-progress)
           - Computer Graphics (In-progress)
+      - Earned Outstanding Writer Badge on Writing Portfolio
 
 ### Work Experience:
   - Safeway Meat/Seafood Clerk, September 2023 – Present
