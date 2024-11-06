@@ -38,7 +38,7 @@
 
 ### Work Experience:
   - Safeway Meat/Seafood Clerk, September 2023 – Present
-    - Worked part time (20-35 hrs/week)
+    - Working part time (30-40 hrs/week)
     - Served customers and answered questions on items stored in meat and seafood cases
     - Priced, packaged, and stocked meat/seafood products for sales floor
     - Made, cut, and prepared seafood meals for customers
