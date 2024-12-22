@@ -16,7 +16,7 @@
       - Pursuing bachelor's degree in Computer Science with an emphasis on Innovation
       - Years: 2020 - Now (Expected Graduation May 2025)
       - Overall GPA: 3.79
-      - Major GPA: 3.711
+      - Major GPA: 3.77
         - Classes Taken:
           - Intro to Programming (Python)
           - Principles of Computer Science (Java)
