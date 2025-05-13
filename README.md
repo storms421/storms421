@@ -17,7 +17,7 @@
   - Currently studying at University of Colorado Colorado Springs (UCCS)
       - Pursuing bachelor's degree in Computer Science with an emphasis on Innovation
       - Years: 2020 - Now (Expected Graduation May 2025)
-      - Overall GPA: 3.779
+      - Overall GPA: 3.786
       - Major GPA: 3.757
         - Classes Taken:
           - Intro to Programming (Python)
@@ -36,12 +36,12 @@
           - Intro to Software Engineering
           - Computer Networks
           - Computer Graphics
-          - Database Systems I (In-progress)
-          - Privacy & Censorship (In-progress)
+          - Database Systems I 
+          - Privacy & Censorship 
       - Earned Outstanding Writer Badge on Writing Portfolio
 
 ### Work Experience:
-  - Safeway Meat/Seafood Clerk, September 2023 – Present
+  - Safeway Meat/Seafood Clerk, September 2023 – May 2025
     - Working part time (30-40 hrs/week)
     - Served customers and answered questions on items stored in meat and seafood cases
     - Priced, packaged, and stocked meat/seafood products for sales floor
