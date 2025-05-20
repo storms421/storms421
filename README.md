@@ -14,11 +14,11 @@
         - Played 2 seasons
         - Captain
         
-  - Currently studying at University of Colorado Colorado Springs (UCCS)
+  - Graduated at University of Colorado Colorado Springs (UCCS)
       - Pursuing bachelor's degree in Computer Science with an emphasis on Innovation
       - Years: 2020 - Now (Expected Graduation May 2025)
       - Overall GPA: 3.805
-      - Major GPA: 3.791
+      - Major GPA: 3.798
         - Classes Taken:
           - Intro to Programming (Python)
           - Principles of Computer Science (Java)
