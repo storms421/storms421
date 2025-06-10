@@ -9,14 +9,14 @@
 ### Education:
   - Graduated at Discovery Canyon Campus with a High School Diploma
       - GPA: 4.0 (weighted); 3.423 (unweighted)
-      - Years: 2016 - 2020
+      - Years: August 2016 - May 2020
       - Part of Soccer Team
         - Played 2 seasons
         - Captain
         
   - Graduated at University of Colorado Colorado Springs (UCCS)
       - Pursuing bachelor's degree in Computer Science with an emphasis on Innovation
-      - Years: 2020 - Now (Expected Graduation May 2025)
+      - Years: August 2020 - May 2025)
       - Overall GPA: 3.805
       - Major GPA: 3.798
         - Classes Taken:
@@ -75,8 +75,6 @@
           - Okami
           - Super Mario Bros 3
           - Star Fox 64
-          - Mario Kart 8 Deluxe
-          - Paper Mario: The Thousand Year Door
   - Programming
       - Python
       - C++
