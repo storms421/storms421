@@ -70,16 +70,15 @@
           - Hockey: Colorado Avalanche
           - Basketball: Denver Nuggets
   - Video Games
-      - Nintendo and Playstation
       - Favorites:
           - Okami
           - Super Mario Bros 3
           - Star Fox 64
   - Programming
       - Python
+      - Java
       - C++
   - Hiking
-  - Drawing
   - Puzzles
   - Listening to music
 
