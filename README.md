@@ -66,12 +66,6 @@
     - Worked full time (35-40 hrs/week) from August to January then transitioned to closing shifts in a part time capacity (20-25 hrs/week)
     - Attention to detail - Oversees cleanliness of lanes, shoes, tables
     - Customer satisfaction - exhibits friendly and enthusiastic energy, fixing games, running laser tag arena and prize room, and keeping prizes and claw machines stocked
- 
-- King Soopers Overnight Dairy Stocker, November 2025 - May 2026
-    - Replenished dairy products quickly and accurately to keep displays fully stocked and visually appealing
-    - Prioritized backstock rotation to prevent spoilage and ensure all products remained fresh and available
-    - Verified product quality and rotated stock to maintain freshness and compliance with store standards
-    - Unloaded and organized shipments by breaking down dairy loads onto the correct U-boats for efficient stocking
       
 - Kohls Associate, August 2019 – January 2020
     - Worked 25–30 hours per week
