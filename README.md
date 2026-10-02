@@ -41,6 +41,18 @@
       - Earned Outstanding Writer Badge on Writing Portfolio
 
 ### Work Experience:
+- T-Mobile Mobile Expert Virtual Retail, May 2026 - Present
+    - Assisted inbound customers with selecting devices, plans, and accessories based on individual needs and usage
+    - Built customer loyalty by providing knowledgeable support, resolving concerns, and ensuring positive service experiences
+    - Applied consultative sales techniques to meet performance goals and drive new customer acquisitions
+    - Maintained up-to-date knowledge of wireless products, promotions, and service features through ongoing training
+ 
+- King Soopers Overnight Dairy Stocker, November 2025 - May 2026
+    - Replenished dairy products quickly and accurately to keep displays fully stocked and visually appealing
+    - Prioritized backstock rotation to prevent spoilage and ensure all products remained fresh and available
+    - Verified product quality and rotated stock to maintain freshness and compliance with store standards
+    - Unloaded and organized shipments by breaking down dairy loads onto the correct U-boats for efficient stocking
+      
   - Safeway Meat/Seafood Clerk, September 2023 – May 2025
     - Working part time (30-40 hrs/week)
     - Served customers and answered questions on items stored in meat and seafood cases
