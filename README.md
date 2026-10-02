@@ -73,7 +73,7 @@
     - Verified product quality and rotated stock to maintain freshness and compliance with store standards
     - Unloaded and organized shipments by breaking down dairy loads onto the correct U-boats for efficient stocking
       
-  - Kohls Associate, August 2019 – January 2020
+- Kohls Associate, August 2019 – January 2020
     - Worked 25–30 hours per week
     - Ensured online orders were found and packaged in a timely and proficient manner
     - Confirmed cleanliness in fitting rooms and store
