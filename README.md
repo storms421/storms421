@@ -48,23 +48,30 @@
     - Maintained up-to-date knowledge of wireless products, promotions, and service features through ongoing training
  
 - King Soopers Overnight Dairy Stocker, November 2025 - May 2026
+    - Worked full time (40-55 hrs/week)
     - Replenished dairy products quickly and accurately to keep displays fully stocked and visually appealing
     - Prioritized backstock rotation to prevent spoilage and ensure all products remained fresh and available
     - Verified product quality and rotated stock to maintain freshness and compliance with store standards
     - Unloaded and organized shipments by breaking down dairy loads onto the correct U-boats for efficient stocking
-      
-  - Safeway Meat/Seafood Clerk, September 2023 – May 2025
-    - Working part time (30-40 hrs/week)
+ 
+- Safeway Meat/Seafood Clerk, September 2023 – May 2025
+    - Worked part time (30-40 hrs/week)
     - Served customers and answered questions on items stored in meat and seafood cases
     - Priced, packaged, and stocked meat/seafood products for sales floor
     - Made, cut, and prepared seafood meals for customers
     - Ensure temperatures in all areas were accurate
     - Nightly cleaning of all machines and cases
-      
-  - The Summit InterQuest Entertainment/Guest Service, August 2022 – June 2023
+ 
+- The Summit InterQuest Entertainment/Guest Service, August 2022 – June 2023
     - Worked full time (35-40 hrs/week) from August to January then transitioned to closing shifts in a part time capacity (20-25 hrs/week)
     - Attention to detail - Oversees cleanliness of lanes, shoes, tables
     - Customer satisfaction - exhibits friendly and enthusiastic energy, fixing games, running laser tag arena and prize room, and keeping prizes and claw machines stocked
+ 
+- King Soopers Overnight Dairy Stocker, November 2025 - May 2026
+    - Replenished dairy products quickly and accurately to keep displays fully stocked and visually appealing
+    - Prioritized backstock rotation to prevent spoilage and ensure all products remained fresh and available
+    - Verified product quality and rotated stock to maintain freshness and compliance with store standards
+    - Unloaded and organized shipments by breaking down dairy loads onto the correct U-boats for efficient stocking
       
   - Kohls Associate, August 2019 – January 2020
     - Worked 25–30 hours per week
